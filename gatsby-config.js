@@ -10,7 +10,7 @@ module.exports = {
       summary: `who lives and works in NYC building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby & Contentful CMS can do.`,
-    siteUrl: `https://www.netlify.com`,
+    siteUrl: `https://gatsby-contentful-cms-blog.netlify.app/`,
     social: {
       twitter: `JayYoungjae`,
     },
